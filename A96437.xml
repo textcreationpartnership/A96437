@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The benefit of afflictions to the people of God opened and applyed in a sermon preached at St. Maryes in Nottingham, March 31, 1659, at the funerall of Mrs. Winnifrid Pierrepont, onely daughter to the honourable Mrs. Alissamon Pierrepont, widdow to the Honourable Francis Pierrepont, Esq; son to the right Honourable Robert, late earl of Kingston / by John Whitlock ...</title>
+            <author>Whitlock, John, 1625-1709.</author>
+         </titleStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96437</idno><idno type="EEBO-CITATION">42475283</idno>
+  <idno type="VID">151447</idno>
+  <idno type="EEBO-PROQUEST">2240866248</idno>
+  
+            <idno type="STC">Wing W2025B</idno>
+            <idno type="STC">ESTC R186539</idno>
+            <idno type="OCLC">42475283</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The benefit of afflictions to the people of God opened and applyed in a sermon preached at St. Maryes in Nottingham, March 31, 1659, at the funerall of Mrs. Winnifrid Pierrepont, onely daughter to the honourable Mrs. Alissamon Pierrepont, widdow to the Honourable Francis Pierrepont, Esq; son to the right Honourable Robert, late earl of Kingston / by John Whitlock ...</title>
+                  <author>Whitlock, John, 1625-1709.</author>
+               </titleStmt>
+               <extent>[12], 38, [6+] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>In the Year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: all after p. [6] at end, lacking.</note>
+                  <note>Reproduction of original in: Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pierrepont, Winifred, d. 1659.</term>
+               <term type="personal_name">Pierrepont family --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  N.T. --  Philippians I, 19 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151447:1"/>
+            <p>THE BENEFIT OF AFFLICTIONS TO THE People of God. OPENED and APPLYED IN A SERMON Preached at St. <hi>Maryes</hi> in <hi>Nottingham, March,</hi> 31. 1659.</p>
+            <p>At the Funerall of Mrs. <hi>Winnifrid Pierrepont,</hi> Onely Daughter to the Honourable <hi>Mrs. Alissamon Pierre<g ref="char:EOLhyphen"/>pont,</hi> Widdow to the Honourable <hi>Francis Pierrepont,</hi> Esq; Son to the Right Honourable, <hi>Robert</hi> Late Earl of <hi>Kingston.</hi>
+            </p>
+            <p>By JOHN WHITLOCK M. A. Minister of the Gospel at St. <hi>Maries</hi> in <hi>Nottingham.</hi>
+            </p>
+            <q>
+               <p>And we know, that all things shall work together for good, to them that love God,</p>
+               <bibl>
+                  <hi>Rom: 8.28.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>—Why make ye this adoe, and weep, the Damosel is not dead but sleepeth,</p>
+               <bibl>
+                  <hi>Mark 5.39.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, <hi>Printed by</hi> M. Simmons, <hi>In the Year,</hi> 1661.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151447:2"/>
+            <pb facs="tcp:151447:2"/>
+            <head>TO THE HONOURABLE The Lady <hi>ALISAMON PIERREPONT</hi> At <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU have your self sometimes been pleased to intimate your desires, that the Sermon I preached upon the sad occasion of the Funerall of your late Dear, and (at the time of her death) only remaining Child and Daughter, Mris <hi>Winifred Pierrepont,</hi> might be printed: A matter I did, and do earnestly desire to be excu<g ref="char:EOLhyphen"/>sed in, as not at all affecting to appear in Print, having never done it but once upon a like sad, nay sadder occasion. And I was and am the more unwilling, because I would not alwayes in my ad<g ref="char:EOLhyphen"/>dresses to you be as one of <hi>Jobs</hi> Messengers, at least so far as to renew the remembrance of your great losse in, and sad sorrows for the death of, first your dearest Husband, and since dear and only Child. And I well hoped the causing the Notes of the latter Sermon to be written out for you, might have satisfied your Honours desires, and served for your private use: But you have
+<pb facs="tcp:151447:3"/>since been pleased by your <hi>Chaplain</hi> (my Reverend and very good friend) Mr. <hi>Stevens,</hi> more fully to expresse your desires, which are to me instead of commands, and earnestly to solicit me at least to permit that Sermon to be printed: A thing I know not how well to yield to, and yet I know not how to, nay cannot, deny you; lest I should shew my self unthankfull, having been and still being so exceedingly engaged to your Honour. And there<g ref="char:EOLhyphen"/>fore, <hi>Madam,</hi> I do without a Complement pro<g ref="char:EOLhyphen"/>fesse my self your servant, and my Sermon to be at your dispose; and if no less then the publish<g ref="char:EOLhyphen"/>ing of it will satisfie, I am glad it is like to passe through so careful a hand as your <hi>Chaplains,</hi> my self being at such a distance. Had I known your intentions soon enough, I might perhaps have re<g ref="char:EOLhyphen"/>viewed it: but the Notes being at such a distance, I must let it passe as it is, desiring, if it be made publick, the blessing of God may accompany it to render it useful and profitable to your Honour, and all others that shall read it.</p>
+            <p>I doubt not, <hi>Madam,</hi> but you have found that Text and Sermon exemplified in your own expe<g ref="char:EOLhyphen"/>rience, so that although Gods dispensations in taking away your dear relations have been very bitter to present sense, yet having been well di<g ref="char:EOLhyphen"/>gested by repentance, prayer, and faith, they have proved very sweet and precious in their effects, <hi>bringing forth the peaceable fruits of righteousness:</hi> And that you can say they have turned to the fur<g ref="char:EOLhyphen"/>therane of your salvation, the rather seeing that as in your fullest prosperity, in the midst of your most comfortable relations, and greatest confluence of Creature-comforts, you have ever exprest a
+<pb facs="tcp:151447:3"/>very high respect to the Ministers, Ordinances and People of God, and a very great care to promote Religion in your Family, so that I may say that in all these, and many other vertues and graces you have under Gods chastnings abounded yet more and more, which is highly commendable in you, and may afford much comfort to you, it being a blessed, and promised effect of Sanctified Affli<g ref="char:EOLhyphen"/>ctions.</p>
+            <p>God hath indeed deprived you of very comfor<g ref="char:EOLhyphen"/>table Relations, but he is able to supply the want of them to you, and to give you an hundred-fold in this life with persecution, and in the life to come, life everlasting. Yea he hath promised to those that keep his Sabbaths, chuse the things that please him, and take hold of his Covenant, a name better than of Sons and Daughters, a name in Gods house, even an everlasting name that shall not be cut off. And as I make no question but God hath wrought in you the condition of the promise, which he hath enabled you to shew forth in the fruits of holinesse in your life, so you need not in the least doubt the reaping the comfort of the promise.</p>
+            <p>That I have further to adde is to acquaint you how much your presence is desired in these parts. The use God hath made of your Honour, in these parts of the Countrey where your habitation hath been, to incourage Piety and reall Religion, and to promote the good of souls makes me, and many others the lesse know, how to bear your absence, and more earnestly desirous of your residence among us, so far as may make for Gods honour and your comfort, that you may continue to be a
+<pb facs="tcp:151447:4"/>prop to declining Religion, a shelter and encou<g ref="char:EOLhyphen"/>ragement to many of the Messengers and people of Christ, who meet with very great discourage<g ref="char:EOLhyphen"/>ments from too many others.</p>
+            <p>Now, that God would blesse you, and yours; that he would abundantly supply to you in, and from himself, what you have lost or do find wan<g ref="char:EOLhyphen"/>ting in the Creature, and that he would enable you to abound yet more and more in grace and comfort, and that he would continue to guide you by his Counsel, even untill at last he hath brought you to his Glory, is the continued prayer of him, who desires to approve himself,</p>
+            <closer>
+               <salute>Madam,</salute>
+               <lb/>
+               <signed>Your Honours most<lb/> devoted Servant,<lb/> especially in soul-<lb/> concernments,<lb/>
+                  <hi>John Whitlock.</hi>
+               </signed>
+               <dateline>
+                  <hi>Nottingham</hi>
+                  <date>Sept: 11.<lb/> 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151447:4"/>
+            <head>To the Truly <hi>Honourable, Religious,</hi> and my most <hi>Honoured Lady,</hi> the <hi>Lady Pierrepont</hi> Relict to the <hi>Ho<g ref="char:EOLhyphen"/>nourable Francis Pierrepont Esq;</hi> Sonne to the <hi>Right Honourable Robert</hi> Late <hi>Earl</hi> of <hi>Kingston.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS ensuing Sermon formerly preached at your desire, and now published by your commands, humbly presents it self to your <hi>Ladyship</hi> as of Right belonging to your <hi>Honour,</hi> being occa<g ref="char:EOLhyphen"/>sioned by your <hi>Heavenly Fathers</hi> re<g ref="char:EOLhyphen"/>calling the greatest pledge of earthly comforts, he continued to entrust you with, <hi>viz:</hi> Mrs. <hi>Winnifrid Pierrepont</hi> your Daughter and only child. The Lord hath been training up your <hi>Ladyship</hi> in the School of Afflictions for some years together, wherein he hath greatly exercised your Faith, and Patience, in depriving you not only of three sweet and lovely <hi>Children,</hi> but of the <hi>delight and covering of your eyes,</hi> your most dear and Honourable <hi>Husband,</hi> and as if Heaven had been impatient for the wearing such sweet Buds in its bosom, hath now also cropt your only little one remaining. O how sad and cutting have these providences been to your Honour, not only as the rending of your limbs from your body, in the parting with your Children, but as the separa<g ref="char:EOLhyphen"/>tion of the two old friends, Soul and Body in the losse of your Husband; who was Honourable and Loving beyond Titles and Expressions. And after all
+<pb facs="tcp:151447:5"/>these, to have the only plant upon which your hopes grew, cut down; how great must this blow needs be! I am apt to resemble these your losses and your due resentment of them, to the Patriarchs parting with his sons; <hi>Joseph is not, Simeon is not, and ye will take Benjamin away, all these things are against me:</hi> So may your <hi>Ladyship</hi> with more cause of com<g ref="char:EOLhyphen"/>plaint say, <hi>Elizabeth, Gervaise</hi> and <hi>Mary</hi> are not, a truly loving and honourable Husband is not, and now my onely child <hi>Winnifrid</hi> is gone also; How does this make against me! Yet hath not your <hi>La<g ref="char:EOLhyphen"/>dyship</hi> with him and his <hi>Rachel refused to be com<g ref="char:EOLhyphen"/>forted, because they are not.</hi> The Cup (I confesse) which your <hi>Heavenly Father</hi> hath given you to drink of, was very bitter, and he hath caused you to drink it up in the death of four Children which were your <hi>All;</hi> and not onely them (though that was no small affliction, your Parental affection being greater than ordinary) but also of a most dear <hi>Husband,</hi> who was better than ten children, nay than ten times <hi>ten Sons,</hi> both in <hi>himself</hi> and your <hi>Ladyships</hi> estimati<g ref="char:EOLhyphen"/>on. All which, together with the many imbittering circumstances which were mingled therewith, (some of which still frequently occur) do justly call for grief from you, and compassion towards you. Yet <hi>Madam,</hi> I must make it my request to your <hi>Ladyship</hi> to take heed of grieving your Comforter, by over<g ref="char:EOLhyphen"/>grieving for your loss, and want of earthly comforts, either in the excesse or duration of your grief. I might mention sundry considerations for the allevi<g ref="char:EOLhyphen"/>ating your trouble, and should, if I well knew not that all I can lay before your <hi>Ladyship,</hi> were long since known to you: I shall therefore only presume
+<pb facs="tcp:151447:5"/>to renew the Plaister, which happily may be requisite, though you both know and have used the Salve. Consider I beseech your <hi>Ladyship,</hi> hath God taken any thing from you which he gave you not? nay were not the things he hath taken rather lent than given? Though your <hi>Lady-ship</hi> had propriety in your Relations (your Husband being but your self divi<g ref="char:EOLhyphen"/>ded, and your Children but your self multiplyed, or wrapped up in so many several skins) yet it was but as the Tennants, or as the Childs to the cloaths it wears, only for use: Our <hi>Heavenly Father</hi> being the grand Proprietor and Owner of all, who never forfeit<g ref="char:EOLhyphen"/>ed his right to us though we have forfeited ours to him; <hi>By whose grace we are what we are,</hi> and have whatsoever we do enjoy. How able also is your God to compensate all these your losses, with freer and fuller enjoyments of himselfe in the face of Christ? Nay has he not long since been, and is he not yet more and more doing this actually in, and for you? If the Father takes Counters from his child, and gives him Gold, or withered Flowers and gives him fresh in their stead; Has the child any cause to complain of the Father as being injurious? Though your <hi>Heavenly Father</hi> hath taken from you some temporall Comforts, yet so long as he hath given bet<g ref="char:EOLhyphen"/>ter in their stead viz: <hi>Himself</hi> (who is a <hi>goodly He<g ref="char:EOLhyphen"/>ritage</hi>) for your portion, <hi>His</hi> Son who <hi>is all in all</hi> for your Saviour and <hi>Husband,</hi> the Spirit <hi>the Com<g ref="char:EOLhyphen"/>forter</hi> to be yours, his word to be your guide and Councellor in the want of others, an assurance of an immediate and uninterrupted enjoyment of himself in Heaven, and of meeting your dear <hi>Relations</hi> there, where you shall never part more; Is he unequal in
+<pb facs="tcp:151447:6"/>his dealings with you? Although he hath taken your only child, yet he hath given you his only Son; He hath in deed written your <hi>Ladyship Husbandless</hi> and <hi>Childless,</hi> yet (I am well assured) he hath given you a <hi>name better than that of your Hus<g ref="char:EOLhyphen"/>bands,</hi> though very <hi>Honourable,</hi> or <hi>of Sons and Daughters,</hi> though very desireable. Your <hi>Ladyship</hi> cannot say without some exceptions of your losses, never were losses like mine; or of your sorrows, never <hi>were sorrows like mine;</hi> yet your <hi>La<g ref="char:EOLhyphen"/>dyship</hi> may without any exception of these your <hi>gains,</hi> never were gains like mine, and consequently of your <hi>joyes</hi> (viz: your <hi>Masters joyes</hi> already ente<g ref="char:EOLhyphen"/>red into you, and which you shall ere long enter into) never were joyes like mine; But I might well spare this, when I consider how ample your experience hath been in the exemplification of this Text, which your <hi>Ladyship</hi> first pitched upon and proposed, and how, conversant since you have been in the practise thereof and those excellent truths, which were digged out of this Golden Mine, by that faithful Labourer of Christ that imparted them to you.</p>
+            <p>And <hi>Lastly,</hi> That I be not unnecessarily tedious to your <hi>Ladyship;</hi> How happy are your dear <hi>Relations</hi> in that which you account your unhappiness? How great that happiness is, that death hath put them in<g ref="char:EOLhyphen"/>to the possession of, I cannot tell, nor shall I be capable of knowing, till I am uncapable of making it known: Had I a Quill fetched from the wing of a <hi>Seraphim,</hi> I could not sufficiently delineate it, yet may I well say, 'tis such as your self can no wayes equalize their gain. How perfectly free are they from all sin, mise<g ref="char:EOLhyphen"/>ry, and temptation, which we that survive are so
+<pb facs="tcp:151447:6"/>encompassed with, that not a few by reason thereof have life in patience, and death in desire. Were they to speak to you, would it not be in the words of your dying <hi>Saviour; Weep not for us but for your selves,</hi> Not for us, who have <hi>all tears wiped from our eyes;</hi> Not for us, who are <hi>entered into joy;</hi> Not for us, who are present <hi>with the Lord</hi> and as happy as <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> can make us: <hi>But for your selves</hi> being still on this side those blessed enjoyments: I am not now about any <hi>Panegyrick</hi> of your most dear Husbands praise, that is done already by far abler Pens than mine; nor yet of your Children,
+<note place="margin">
+                  <hi>Vid:</hi> The Se<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mons prea<g ref="char:EOLhyphen"/>ched at his Funeral by the Reve<g ref="char:EOLhyphen"/>rend and learned Di<g ref="char:EOLhyphen"/>vines, Mr. <hi>Whitlock,</hi> a Mr. <hi>Reynol.</hi>
+               </note> some of which gave demonstrations of their affection for goodness beyond whats usuall in such years, he and they being above my commendation.</p>
+            <p>What remains then, but that your <hi>Lady ship</hi> be en<g ref="char:EOLhyphen"/>treated to put no more bitternesse into the Conclusi<g ref="char:EOLhyphen"/>on, than God hath put into the Premises, to view the bright as well as the black side of these providences, and considering these and the like consolatory consi<g ref="char:EOLhyphen"/>derations, to endeavour with <hi>David</hi> in <hi>greater di<g ref="char:EOLhyphen"/>stresse to comfort your self in your God,</hi> serving him with <hi>cheerfulnesse in that abundance he hath given you,</hi> and to rejoyce in your surviving mer<g ref="char:EOLhyphen"/>cies and Relations, but principally in the Lord, whereto you have so many obligations, from which all your afflictive losses cannot possibly dis-ingage you. I might here enlarg, were it not that both yoru Honor is well acquainted with your duty, and the capacity I stand in to your <hi>Ladyship</hi> for your souls service gives me occasion sufficiently of reminding you thereof in private. Wherein as in all other things that concern your spiritual and eternal comfort and happiness, I
+<pb facs="tcp:151447:7"/>desire to serve your honour in all sincerity and chear<g ref="char:EOLhyphen"/>fulness. As I must alwaies profess my self, not only of duty, but singular obligation, bound; having re<g ref="char:EOLhyphen"/>ceived so many incouragements from you, in, and such bounty for my ministerial work, since I have had the happiness to be serviceable to your <hi>Ladyship</hi> there<g ref="char:EOLhyphen"/>in. So that, your <hi>Ladyship</hi> hath merited my pub<g ref="char:EOLhyphen"/>lishing your praise in these and many other things far more commendable, which if your <hi>Ladyship</hi> had not charged me more than once, and more than or<g ref="char:EOLhyphen"/>dinarily against, I should have told the world of your exemplary walking before your family, your great devotion in private as well as in publick worship, your charity to the souls of such as want the bread of Life, and desirousnesse of walking with and be<g ref="char:EOLhyphen"/>fore others in the way to Heaven; all which and ma<g ref="char:EOLhyphen"/>ny other things sufficiently praise-worthy, I might blazon abroad, were it not that both your <hi>Ladyships</hi> modesty forbids, and my own propensity rather in<g ref="char:EOLhyphen"/>clines me to a silent admiration.</p>
+            <p>
+               <hi>That the Lord would further sanctifie all your afflictions, make up your losses, supply your wants, blesse you in all your Enjoyments, Relations, and Concernments, and when flesh and heart fails, be your never-failing strength and portion, is and shall be the earnest and constant prayer of,</hi>
+            </p>
+            <closer>
+               <salute>Madam,</salute>
+               <lb/>
+               <signed>Your Ladyships Chaplain<lb/> in all dutifull observance,<lb/>
+                  <hi>W. S.</hi>
+               </signed>
+               <dateline>
+                  <date>Octob. <hi>1. 1661.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:151447:7"/>
+            <head>THE BENEFIT OF AFFLICTIONS TO THE People of God.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Philip. 1.19.</hi>
+                  </bibl>
+                  <p>
+                     <hi>For I know that this shall turn to my salvati<g ref="char:EOLhyphen"/>on, through your prayer, and the supply of the Spirit of Jesus Christ.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>OD hath been pleased in a few years, to give us many sad occa<g ref="char:EOLhyphen"/>sions like unto this, of meeting together, to Solemnize the Fu<g ref="char:EOLhyphen"/>neralls, of both the <hi>root,</hi> and several <hi>branches</hi> of this Honou<g ref="char:EOLhyphen"/>rable Family. It is but a little above a year since, God took away by death, the <hi>Head and Root</hi>
+               <pb n="2" facs="tcp:151447:8"/>of this Family; to the much to be lamented losse, not only of his own Family, and neer relations; but also of this Town and County; yea, of the whole Land and Nation, and that in relation, both to Church and State. And now God hath been pleased to make another sore breach in this Family, by taking away another <hi>branch</hi> of it; the only Child, though not of her Father, yet of her Mother, left her at the decease of her dear Husband. The Providence is very sad, it is the Duty of all related to this Family, to lay it to heart, and to improve it: And it is all our duties to have our pitty to<g ref="char:EOLhyphen"/>wards them, and our prayers for them, stirred up; that God would give in the fruit, and benefit of these afflictions to their souls. God help, both them, and us, to do their, and our duties in this particular.</p>
+            <p>This portion of Scripture, I have now read un<g ref="char:EOLhyphen"/>to you, holds forth Comfort to Believers, under the most startling Providences, and most pressing Burdens; as also direction in what way persons under affliction may expect, and by what means they may come to partake of the fruit, and bene<g ref="char:EOLhyphen"/>fit of all their afflictions; and it further directs us, what is our Duty, that we may be helpful to them in it.</p>
+            <p>But to come nearer to the Text it self.</p>
+            <p>The occasion of the words, you have laid down in the former verses, where St. <hi>Paul</hi> complains of some, that went about to adde afflictions to his Bonds: and truly those concerned in this present Providence, may say that God hath added afflicti<g ref="char:EOLhyphen"/>on to their Bonds, though they must not complain of this, but acknowledge God just, and righteous
+<pb n="3" facs="tcp:151447:8"/>in it. And I fear they may complain, not with<g ref="char:EOLhyphen"/>out cause, that some men have added affliction to their Bonds, and that sinfully: however those that are the People of God, may, as St. <hi>Paul</hi> did, comfort themselves from this Scripture, in the assurance of a good issue, and saving benefit they shall reap from all their afflictions. As to the de<g ref="char:EOLhyphen"/>pendance of these words upon the former, and the parts of the Chapter, I shall briefly hint them to you, not affecting to dwell long in the Porch of a Text.</p>
+            <p>After St. <hi>Pauls</hi> salutation of, and prayer for, these <hi>Philippians,</hi> contained in the eleven first ver<g ref="char:EOLhyphen"/>ses; He doth from the 12 verse, to the 27. indea<g ref="char:EOLhyphen"/>vour to remove the scandal of the Crosse, the <hi>Philippians</hi> might take against the Gospel, by his suffering: Now St. <hi>Paul</hi> convinceth them, that they had no cause at all, to take offence against the Go<g ref="char:EOLhyphen"/>spel, by reason of his affliction, and imprisonment; And he lays down two generall grounds of this:</p>
+            <p>The first, that his sufferings, were so far from hindring the Gospel, that they rather tended to the furtherance of it, as in verses 12, 13, 14, 18.</p>
+            <p>The second, That all his afflictions should turn to his good, and salvation, as in the Text. Or if you will St. <hi>Paul</hi> from the 12. verse, to the Text, propounds that, which might keep them from be<g ref="char:EOLhyphen"/>ing stumbled at his afflictions.</p>
+            <p>And in the Text, he shews what it was, that kept him from sinking under them. In the 13, 15, 16. verses, you have a specification of St. <hi>Pauls</hi> af<g ref="char:EOLhyphen"/>flictions; namely <hi>Bonds, and Imprisonment, and perills by false brethren,</hi> who envied <hi>Paul,</hi> and in<g ref="char:EOLhyphen"/>deavoured to reproach his person, and underva<g ref="char:EOLhyphen"/>lue
+<pb n="4" facs="tcp:151447:9"/>his Ministry, and yet all this under a pretence of preaching the Gospel; in the 18. verse you have <hi>Pauls</hi> Resolution upon all this, and that was to rejoyce that Christ was preached, whether for corrupt ends, or with sincere hearts, let those that preach look to that; yet seeing Christ was preached notwithstanding his Bonds, and their adding affliction to his Bonds, he doth, and he resolves, he will rejoyce. And this leads me to my Text, which contains the ground of the Apostle <hi>Pauls</hi> rejoycing under his afflictions, together with the means whereby this was brought about, which was that he knew it would turn to his salvation, through the help of prayer, and the supply of the Spirit.</p>
+            <p>In the words there are these two parts;</p>
+            <p>First, The Apostles full perswasion, and assu<g ref="char:EOLhyphen"/>rance of, a blessed issue of all his troubles.</p>
+            <p>Secondly, The Causes, and Means, from, and by reason of which, this would be brought about; in the latter part of the verse.</p>
+            <p>To open the Words:</p>
+            <p>
+               <hi>For;</hi> This causall Conjunction, <hi>For,</hi> shews the dependance of these words upon the foregoing, and that they are brought in, as a reason of the Apostles resolution, expressed in the 18. verse.</p>
+            <p>
+               <hi>I know;</hi> This phrase notes St. <hi>Pauls</hi> confidence, and assurance of that he is about to speak; <hi>I know it,</hi> I have no doubt at all of it, I do not speak of it, as a matter dubitable, but I am upon good grounds assured of it.</p>
+            <pb n="5" facs="tcp:151447:9"/>
+            <p>
+               <hi>That this;</hi> First, Some referre this, to the prea<g ref="char:EOLhyphen"/>ching of the Gospel, which was occasioned by <hi>Pauls</hi> Bonds; many waxing bold to preach, being animated by his example, as he tells us, verse the 14. Or</p>
+            <p>Secondly, This may have relation to the 15. &amp; 16. verses: How ever it be a wicked designe, of those who preach Christ out of envy and strife; who think by their envying me, and casting false asper<g ref="char:EOLhyphen"/>sions on me, to stir up corruption in me, and to adde affliction to my Bonds; yet <hi>I know that this shall turn to my salvation.</hi> God will do me much good by it, and bring great advantage to my soul out of it.</p>
+            <p>
+               <hi>Shall turn to my salvation;</hi> Some interpret this of temporal salvation, from the hands of <hi>Nero,</hi> and his present imprisonment: But most inter<g ref="char:EOLhyphen"/>pret this of spirituall and eternal salvation; Name<g ref="char:EOLhyphen"/>ly, That these his afflictions should tend to the prevention, and purging out of sin, to the increase of grace, and comfort here, and an addition of eter<g ref="char:EOLhyphen"/>nal glory hereafter.</p>
+            <p>
+               <hi>Through your prayer;</hi> In these, and the follow<g ref="char:EOLhyphen"/>ing words, he shews the means, by which his affli<g ref="char:EOLhyphen"/>ctions should attain this blessed effect; Some make these two Phrases, to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; make the sense to be this; Through the Supply of the Spirit of Christ obtained by your prayers: but they may be taken distinctly, the former being the lesse princi<g ref="char:EOLhyphen"/>pall cause, or instrument, the latter <hi>the Spirit of Christ,</hi> the principall efficient. St. <hi>Paul</hi> you see, (though an Apostle) desires, prizes, and highly va<g ref="char:EOLhyphen"/>lues, the prayers of Gods people, yea, of the meanest Saints for him, as those he would not be
+<pb n="6" facs="tcp:151447:10"/>without for a world; but expected much good from them, as a means to attain help, and com<g ref="char:EOLhyphen"/>fort, and the supply of the Spirit of Christ.</p>
+            <p>
+               <hi>And the supply of the Spirit of Christ.</hi> The Greek word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, signifies a supply by way of support, by holding up, and underproping a weak person; or else a supply by way of influence, derived from Christ by faith, and communicated by the Spirit; such as the head affords, and admi<g ref="char:EOLhyphen"/>nisters to the body.</p>
+            <p>By this supply of the Spirit of Christ, is under<g ref="char:EOLhyphen"/>stood the supports, and comforts Christ affords; and also that grace, and ability, to performe the duties of an afflicted state, that Christ by his Spirit vouchsafeth to his people: and this is the main and principal efficient, of all that good we get by any affliction. Indeed our own prayers, and the prayers of other Saints, may be very usefull, and instrumental for our good, yet these alone cannot bring meat out of this eater, any further, then as they are followed with the supply of the spirit of Christ.</p>
+            <p>And having thus opened the words; I proceed to the Doctrines observable from them.</p>
+            <p>
+               <hi>Doct. 1.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> That the sorest afflictions, and most crosse Providences, that do, or can befall Christi<g ref="char:EOLhyphen"/>ans in this life; God can, and will cause them, to turn to their salvation.</p>
+            <p>Those things, which may be intended by the Devil, and wicked men, for their vexation, and trouble, and which in their own nature, would tend to their destruction; God can, and will turn to their salvation.</p>
+            <pb n="7" facs="tcp:151447:10"/>
+            <p>
+               <hi>Doct. 2.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> That Believers have sufficient ground from Scripture, to know, and be assured, that their afflictions shall turn to their salvation.</p>
+            <p>This I gather from those words, <hi>I know;</hi> St. <hi>Paul</hi> did, and therefore other Saints may know it.</p>
+            <p>
+               <hi>Doct. 3.</hi> That the knowledge, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> that all afflictions shall turn to the salvation of Gods people, may bear up the heart of a Christian, and cause him to rejoyce, when he is depressed lowest, under the burden of weightiest afflictions.</p>
+            <p>This I gather from the Connexion of this verse upon the former, considering the words as an ar<g ref="char:EOLhyphen"/>gument, or ground of <hi>Pauls</hi> rejoycing.</p>
+            <p>
+               <hi>Doct. 4.</hi> That the most eminent Saints, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> stand in need of the prayers of other, yea of the meanest Christians, should desire them, and may receive much benefit by them.</p>
+            <p>
+               <hi>Doct. 5.</hi> That the prayers of the Church, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>5</label> and people of God, for persons in affliction, is an or<g ref="char:EOLhyphen"/>dained, and instituted means to turn their af<g ref="char:EOLhyphen"/>flictions unto their salvation.</p>
+            <p>
+               <hi>Doct. 6.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>6</label> That though the prayers of Saints may be instrumental, yet the Spirit of Jesus Christ, by the supplyes he vouchsafeth to his people, is the principall efficient, of turning their afflicti<g ref="char:EOLhyphen"/>ons into their salvation.</p>
+            <pb n="8" facs="tcp:151447:11"/>
+            <p>
+               <hi>Doct. 7.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>7</label> That the supplyes of the Spirit of Christ, are fetched in by way of prayer.</p>
+            <p>It would be too large a Field for me to enter in<g ref="char:EOLhyphen"/>to each of these Doctrines severally; I shall there<g ref="char:EOLhyphen"/>fore sum up all in one Doctrine, as neer as may be in the words of the Text; and which will contain the scope, and sum of the whole verse, which is this;</p>
+            <p>
+               <hi>Doct:</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label> That Paul did, and all true Believers may know, and be assured; That all, even their greatest afflictions, shall turn to their salvation; through the prayers of Gods people, and the supply of the Spirit of Christ.</p>
+            <p>I might prove this Doctrine by an Induction, instancing in particular afflicted ones; What St. <hi>Paul</hi> speaks of those particular afflictions, mentio<g ref="char:EOLhyphen"/>ned in the verses before the Text, the same may every Christian say of each affliction he lyes under, <hi>I know this shall turn to my salvation:</hi> Be it losse of estate, I know this losse of earth, shall help me to gain Heaven; This loss, or cross, of, or in neer, and dear relations, of wife, husband, parent, child, or friend, shall turn to my salvation; I shall be a gainer by the bargain, if while I lose creatures, I shall gain more of God; and what I want in them, I find made up in him. A Christian, if under Bonds and Imprisonment, as St. <hi>Paul</hi> was, when he writ this Epistle; he may say, <hi>I know that this shall turn to my salvation,</hi> seeing I by experience find it thus oftentimes, that while I have least
+<pb n="9" facs="tcp:151447:11"/>liberty with man, I have most with God. Is a Christian reproached, slandered, censured, when he lyes under Gods afflicting hand? yet he may say, <hi>Even this shall turn to my salvation,</hi> while it makes me look inward, and judge my self more than men can judg me, and makes me more watch<g ref="char:EOLhyphen"/>full over my heart and wayes for the time to come. Yea in the case of desertions, and temptati<g ref="char:EOLhyphen"/>ons, even these in the issue shall work for the good, and turn to the salvation of Gods people.</p>
+            <p>In the further handling of this Doctrine, I shall observe this Method.</p>
+            <p>First, I shall shew, how all afflictions, <milestone type="tcpmilestone" unit="unspecified" n="1"/> even the most crosse providences, shall turn to the salvation of Gods people.</p>
+            <p>Secondly, I shall prove, <milestone type="tcpmilestone" unit="unspecified" n="2"/> that the Saints of God may know this; and how they may, and do come to know it.</p>
+            <p>Thirdly, That the prayers of Gods people, <milestone type="tcpmilestone" unit="unspecified" n="3"/> are a special means conducing to the producing this effect, <hi>salvation.</hi>
+            </p>
+            <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> That the supply of the Spirit of Christ, is that which causeth the afflictions of Gods people to turn to their salvation: And what it is the Spirit doth supply them with, in or<g ref="char:EOLhyphen"/>der hereunto.</p>
+            <p>First, To begin with the first General, which is, <milestone type="tcpmilestone" unit="unspecified" n="1"/> to shew how all afflictions, and cross Providences do, and shall turn to the salvation of Gods people: And this will more clearly appear, by considering what the notion of salvation imports. Now <hi>salva<g ref="char:EOLhyphen"/>tion</hi> principally implyes two things; <hi>First,</hi> De<g ref="char:EOLhyphen"/>liverance from evill: <hi>Secondly,</hi> The Enjoyment of, and instating in good: and in reference to both
+<pb n="10" facs="tcp:151447:12"/>these, the afflictions of Gods people do, and shall turn to their salvation.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> The afflictions of Gods people do, and shall turn to their salvation, as they are a means to save them from evill: Now this evill, afflictions conduce to the saving the people of God from, is twofold: 1. The evil of Sin; 2. The evill of Wrath.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Afflictions do, and shall turn to the salva<g ref="char:EOLhyphen"/>tion of Gods people, as they help to save them from the evill of sin; and this is one great part of salvation: hence it is said of Christ, <hi>Matthew</hi> 1.21. <hi>And she shall bring forth a Son, and thou shalt call his name Jesus: for he shall save his people from their sins.</hi> And hence hath Christ his name Jesus, for he shall <hi>save</hi> his people from their sins. Now this the afflictions and sufferings of Saints do; not by freeing them from the guilt of sin, for not our sufferings, but only Christs, have an influence this way, but they help to save them from the filth, power, and dominion of sin, and that two wayes:</p>
+            <p>First, By way of Prevention, Antidote, and Pre<g ref="char:EOLhyphen"/>servative against this Infection.</p>
+            <p>Secondly, By way of cure, as God makes affli<g ref="char:EOLhyphen"/>ctions purging Potions to purge out corruption, and to cure those distempers that are grown upon the soul.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Afflictions turn to the salvation of Gods people, in relation to sin, as they tend to the pre<g ref="char:EOLhyphen"/>venting of sin: Sin is the greatest enemy to the souls salvation, and what ever tends to the pre<g ref="char:EOLhyphen"/>venting that, upon the same account tends to our salvation; but thus, do all afflictions sanctified, in reference to Gods people; Losses in estate, and of
+<pb n="11" facs="tcp:151447:12"/>neer, and dear relations; reproaches on our names; the harsh, and unjust censures of men, yea, and de<g ref="char:EOLhyphen"/>sertions from God himself; all these, being sancti<g ref="char:EOLhyphen"/>fied, prevent much sin, that Saints are, and would be much more in danger of being insnared by. For proof of this, consult <hi>Job</hi> 33.17. <hi>That he may withdraw man from his purpose, and hide pride from man.</hi> When man is going on, most resolutely in a course of sin, God by afflictions puts a stop to him in his fullest career; God by afflictions takes away the occasions of sin, he withdrawes fuel from the fire of mans lusts, and cuts off sins provisions. The skilful Physitian knows how of the poyson<g ref="char:EOLhyphen"/>ful Viper to make a wholesome Treacle: Much more can the All-wise God, out of the afflictions of his people, make an Antidote against sin. This you have further proved in <hi>Hosea</hi> 2.6, 7. <hi>Therefore be<g ref="char:EOLhyphen"/>hold, I will hedge up thy way with Thorns, and make a wall, that she shall not find her paths. And she shall follow after her Lovers, but shall not overtake them, and she shall seek them, but she shall not find them; then shall she say, I will goe and return to my first husband, for then was it better with me than now.</hi> God hedged up the way of his people with afflictions, with Thorns of trouble, and thereby keeps them from going after their former Lovers: and truly, they are blessed afflictions, which keep the soul from sin: For, though affliction be bitter at present; yet, sin will be much more bitter in the latter end. It is a good saying of one; <hi>Amara est amaritudo slagellorum, quibus a Deo corripimur, sed amarior est amaritudo peccatorum, quibus a Deo se<g ref="char:EOLhyphen"/>peramur;</hi> That is, Affliction is bitter, by which we are corrected of God, but sin is much bitterer,
+<pb n="12" facs="tcp:151447:13"/>by which we are separated from God: Men are never in greater danger of falling into sin, than when they are least afflicted. To this purpose is that of <hi>Arnobius; Laetus animus lapsum facile incur<g ref="char:EOLhyphen"/>rit, quod tristi, &amp; afflicto difficile evenit;</hi> The joyful mind easily gets a fall, which hardly hap<g ref="char:EOLhyphen"/>pens to him, who is sad, and afflicted.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Afflictions turn to the salvation of the people of God from the filth and power of cor<g ref="char:EOLhyphen"/>ruption; not only as they are preventive of sin, but also, as God useth them as purging Physick, to purge out those corrupt humors that were con<g ref="char:EOLhyphen"/>tracted in prosperity, and as Corrosives to eat out that proud and dead flesh, which some<g ref="char:EOLhyphen"/>times growes in the hearts of Gods people. Affli<g ref="char:EOLhyphen"/>ctions sanctified are means of Mortification, and so, of salvation; they are as Pruning Knives, which serve to cut off the luxuriant branches of lust and corruption in the heart, even as cold, and nipping frosts do kill those worms, which would devour both root and fruits; so the Winter blasts of affliction, do kill those worms of corrupti<g ref="char:EOLhyphen"/>on, which else would destroy the fruits of grace in the soul. By these, many distempers are cured, which have prevailed in Saints in time of prospe<g ref="char:EOLhyphen"/>rity, <hi>Psal.</hi> 119.67. <hi>Before I was afflicted I went astray, but now have I kept thy word.</hi> It is the say<g ref="char:EOLhyphen"/>ing of one of the Ancients to this purpose; <hi>Solet Deus afflictionibus exagitare, ut vasa electionis evacuentur nequitia, et impleantur gratia;</hi> That is, God is wont to tosse his by afflictions, that his elect Vessels may be emptied of sin, and filled with grace. It is for this end that God afflicts his peo<g ref="char:EOLhyphen"/>ple, namely, to reform them, as <hi>Cyprian, Ad hoc cor<g ref="char:EOLhyphen"/>ripit
+<pb n="13" facs="tcp:151447:13"/>ut emendet, ad hoc emendat ut servet;</hi> He cor<g ref="char:EOLhyphen"/>rects that he may reform; he reforms, that he may save. And <hi>Tertullian, De patientia,</hi> thus ex<g ref="char:EOLhyphen"/>presseth himself; <hi>Quin insuper gratulari, &amp; gaudere nos decet, dignatione divinae castigationis; O servum beatum cujus emendationi Dominus in<g ref="char:EOLhyphen"/>stat, cui dignatur irasci!</hi> It becomes us to be thankful for, and rejoyce in the condescention of Divine chastening; Oh blessed servant, on whose amendment his Lord is so intent, with whom he vouchsafeth to be angry! I shall more particularly instance in some sins afflictions tend to save Gods people from.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> The afflictions and sufferings of the Saints tend to save them from the sin of pride; which in prosperity they are very prone to, and often foy<g ref="char:EOLhyphen"/>led by. Oh while even good men are in prospe<g ref="char:EOLhyphen"/>rity, while they have full estates, and all their comfortable relations, while they have the good word, and respect of every one, and the Candle of the Lord shines upon their heads, they are apt to forget themselves, and in danger of being swel<g ref="char:EOLhyphen"/>led with pride, and high conceits of their own ex<g ref="char:EOLhyphen"/>cellencies. Should Christians meet with no afflicti<g ref="char:EOLhyphen"/>ons from God, or with no reproaches, slanders, and censures from men, they would think too well of themselves; but by afflictions, <hi>God hides pride from man, Job</hi> 33.17. By these, God pricks the Bladder of pride, and lets out that windiness of self-conceit, which before lodged in mens hearts. This humor of pride and self-conceit is much nourished by ease, and prosperity, but let out by adversity. It was for this end, the Messenger of Satan was sent to buffet St. <hi>Paul,</hi> 2 <hi>Cor.</hi> 12.7. <hi>And
+<pb n="14" facs="tcp:151447:14"/>least I should be exalted above measure, through the abundance of the revelations, there was given to me a Thorn in the flesh, the Messenger of Satan to buffet me, least I should be exalted above measure:</hi> This was to prevent and cure pride, and being exalted above measure: and indeed, all afflictions from God, and and Messengers from Satan, are sent to the people of God, to keep them from being exalted above measure, either in the injoyment of outward mer<g ref="char:EOLhyphen"/>cies, or of inward comforts. And thus afflictions turn to the salvation of Saints, as they tend to prevent, and cure pride, which would most cer<g ref="char:EOLhyphen"/>tainly bring destruction.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> The afflictions, and sufferings of Saints, tend to save them from sin; namely, from the sin of security; a sin that is very apt to incroach upon the best of men in times of prosperity; Afflictions tend to awaken, and keep awake the soul which is apt to fall asleep when persons are at ease, and so they tend to their salvation; for Gods people are never in danger, till they are asleep. Afflictions are to the Saints, as the Thorn at the Nightingales breast, which keeps her waking, and makes her sing most sweetly: In prosperity Gods people are too apt to say with the Psalmist, <hi>Psal.</hi> 30.6, 7. <hi>And in my prosperity, I said, I shall never be moved. Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.</hi> Oh, but when God hides his face, then they are troubled and made to look about them. Now afflictions do thus save from security, emi<g ref="char:EOLhyphen"/>nently, as they quicken to two of the main duties of a Christian, in order to his salvation, and most opposite to the sin of security, which are; 1. Con<g ref="char:EOLhyphen"/>sideration,
+<pb n="15" facs="tcp:151447:14"/>self-reflection, and examination, in re<g ref="char:EOLhyphen"/>lation to what is past, and present; 2. Watchful<g ref="char:EOLhyphen"/>nesse for the time to come.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Afflictions tend to the saving the people of God from the sin of security; as they quicken to the duty of serious consideration, examination, and self-reflection; Times of affliction, and suffe<g ref="char:EOLhyphen"/>ring, are considering times: <hi>Eccles.</hi> 7.14. <hi>But in the day of adversity consider. Hagg.</hi> 1.5. <hi>Now therefore thus saith the Lord of Hosts, consider your wayes;</hi> And that, when you are under the appa<g ref="char:EOLhyphen"/>rent judgements of God. <hi>Job</hi> 36.8, 9. <hi>And if they be bound in Fetters, and be holden in the Cords of affliction, then he sheweth them their work, and their transgressions, that they have exceeded.</hi> In prospe<g ref="char:EOLhyphen"/>rity they have not time to read over their sins; but in adversity God shews them to them. Times of affliction are times of looking inward, and com<g ref="char:EOLhyphen"/>muning with mens own hearts. In times of pros<g ref="char:EOLhyphen"/>perity we are apt to look abroad to examine and censure the persons of others, and also their acti<g ref="char:EOLhyphen"/>ons; but under affliction, the soul falls to examining its own heart and wayes, and judging its self; it begins to say, what have I done? When God crosseth men in their estates, Oh then saith the soul, at least, the Godly soul, did I improve my estate, while I did enjoy it? Did I make so good use of it as I might, or lay it out for God as I ought? When God takes away dear relations by death, an Husband, Wife, Parent, Child, Brother, or bosome Friend: Oh then the soul begins to ask it self, Did not I love these too much? Did I not give too much of my heart to them? Did I ei<g ref="char:EOLhyphen"/>ther do that good to them, or get that good from
+<pb n="16" facs="tcp:151447:15"/>them, that I might have done? Were their souls the better for me, or mine for them? So when men are reproached, slandered, and censured by men, now is a time for the soul to look inward, and say, Have I not some way or other, given just occasion for these reproaches, and censures? or if not, but I be falsly and causelesly slandered and censured by men, yet have I not justly provoked God many wayes by sin, to leave me to the scourge and strife of tongues? When the soul is deserted, it considers, have I not driven God away by my sins? Now such communing with our own hearts, tends to rouze the soul from security, and to put it upon judging, condemning, and humbling it self before God, which turns to the souls salvation very much.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Afflictions and sufferings tend to save the soul from the sin of security; as they excite the soul to a greater measure of watchfulnesse for the future. In the case of losses in estate, or of re<g ref="char:EOLhyphen"/>lations, Well saith the soul, I will look to my wayes better, I will endeavour to improve my estate more for God and publick good, than I have done; I will endeavour to do more good to, and get more from, those relations I have yet left, than I have done: So reproaches, slanders, and censures of men, these tend to the salvation of the people of God; as they make them more watch<g ref="char:EOLhyphen"/>ful, and that, whether the things that are charged upon them be true or false; if true, it makes them carefull never to fall into the like sin again; if false, it makes them watchfull, that they give no just occasion to open the mouth of those that watch for their halting: They consider, though I
+<pb n="17" facs="tcp:151447:15"/>may be innocent in these Points; yet I have the seed of them in my heart, and therefore I will watch against these and all other sins.</p>
+            <p>A Third sin God by afflictions saves his people from, is the fin of Earthly-mindednesse, <milestone type="tcpmilestone" unit="unspecified" n="3"/> and do<g ref="char:EOLhyphen"/>ting on creature enjoyments: Afflictions tend to the salvation of Gods people, as they teach them to dote on creatures lesse, and improve them more. When we are in prosperity; Oh! how apt are we to have our hearts glued to the creatures, and to sing Requiems to our souls, and say, <hi>It is good to be here:</hi> When we have full estates, comfortable relations about us, the good word of every one, we are too ready to idolize and make Gods of creature comforts: but when God deprives us of these, and suffers us to lye un<g ref="char:EOLhyphen"/>der poverty, reproach, the losse of relations, we come to see the vanity, uncertainty and instabili<g ref="char:EOLhyphen"/>ty of every thing here below, that riches take themselves wings, and flye away; that honour and applause that are but a bubble, relations areuncer: tain comforts. Afflictions and sufferings put the soul upon seeking better things than earth can afford, and cause them to mind Heaven, and Heavenly things, which in a full estate, even Saints are too apt to forget: <hi>Gregory</hi> gives this as a reason, why the people of God meet with so many and sharp af<g ref="char:EOLhyphen"/>flictions: <hi>Electis suis ad se pergentibus Deus, hu<g ref="char:EOLhyphen"/>jus mundi iter asperum facit, ne dum quis{que} oblecta<g ref="char:EOLhyphen"/>tur, in via obliviscatur, quod desiderabat in patria;</hi> The sense of which is, God makes the journey of his people through this world sharp and rugged, least while they delight themselves in the way, they should forget their home and Countrey.
+<pb n="18" facs="tcp:151447:16"/>And as God by afflictions teacheth his people to dote on creatures lesse; so to improve them more in his service, and for his glory, and their own, and others good. And hitherto you have heard, how afflictions and sufferings tend to save Gods people from the evill of sin.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> The afflictions and sufferings of Gods people tend to save them from wrath to come, not as any part of satisfaction to Divine Justice, but as they produce the former effects; Namely, the pre<g ref="char:EOLhyphen"/>venting and purging out of sin; This is proved in 1 <hi>Cor:</hi> 11.31, 32. <hi>For if we would judge our selves, we should not be judged: But when we are judged, we are chastned of the Lord, that we should not be condemned with the world.</hi> God chastens his peo<g ref="char:EOLhyphen"/>ple here, that he may not eternally condemn them hereafter. <hi>Job</hi> 33.18. <hi>He keepeth back his soul from the pit, and his life from perishing by the sword.</hi> And thus you see how afflictions turn to the salvation of Gods people, as salvation comprehends deliverance from evill.</p>
+            <p>But Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> If we consider salvation in the Positive part of it, so the afflictions and sufferings of the Saints turn to their salvation; Now sal<g ref="char:EOLhyphen"/>vation so considered, comprehends Sanctification, Comfort, and Glory, so far as afflictions tend to the promoting of it: for as to Justification, affli<g ref="char:EOLhyphen"/>ctions have no influence upon that.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Afflictions turn to the salvation of the Saints Positively, as they further and promote Sanctification, as they promote grace in the hearts, and holinesse in the lives of Saints, <hi>Heb:</hi> 12.10. <hi>But he for our profit, that we might be partakers of his holiness: and further it yeelds the peaceable fruit of
+<pb n="19" facs="tcp:151447:16"/>righteousnesse, as in the</hi> 11. <hi>vers.</hi> Now afflictions tend to the promoting of Sanctification in the hearts of Gods people four wayes.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Afflictions promote holiness in the hearts of Gods people, as they quicken the soul to a more diligent attendance on those Ordinances, and a more lively performance of those duties, whereby the work of grace is wrought, and main<g ref="char:EOLhyphen"/>tained in the soul; Such as are the Word, Prayer, Sacraments, and the like. In prosperity men are apt to neglect these, then we but seldome visit God in prayer, <hi>Hosea</hi> 5.15. <hi>I will go and return to my place, till they acknowledge their offence, and seek my face, in their affliction they will seek me early.</hi> Affliction fetcheth the soul to God, and brings it upon its knees. In prosperity God may send for us again, and again by his Messengers, and we may return sleevelesse excuses, as <hi>Joab</hi> did to <hi>Absolom,</hi> when he sent for him; but when God sets fire on our Conforts; this causeth us to make haste to him, as <hi>Joab</hi> did to <hi>Absolom</hi> when he had set fire on his Corn; and as afflictions quicken to prayer, so they open the ear to listen with more attention to the Word. In affliction men may be spoken to, which would not indure it in their prosperity. <hi>Job</hi> 33.16. <hi>Then he openeth the eares of men, and sealeth their instruction. Job</hi> 36.8. &amp; 10. <hi>Then he sheweth them their work and their transgressions, that they have exceeded. He openeth also their ear to Discipline, and commandeth that they turn from iniquity.</hi> When the unruly patient is bound hand and foot, you may then apply the Plaister, and search the wound to the bottom; So when God hath men in fetters of affliction, this tames
+<pb n="20" facs="tcp:151447:17"/>their spirits. Afflictions will quicken Gods people to earnest breathings after, and diligent use of Sa<g ref="char:EOLhyphen"/>craments; that they may have spiritual com<g ref="char:EOLhyphen"/>forts sealed, when they experiment all earthly ones to be so uncertain. And as afflictions quicken the Children of God unto duty; so likewise to a more lively performance of duty; Saints are ready with the Church (<hi>Cant.</hi> 3.1.) to grow lazie in prospe<g ref="char:EOLhyphen"/>rity, but when God moves towards us with his rod, this quickens our motions towards him: Afflicti<g ref="char:EOLhyphen"/>on makes Saints pray, not onely more frequently, but also more fervently; It makes them hunger more after the Word; then every Promise, every Truth is sweet, and every duty is performed better.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Afflictions tend to the promoting of grace in the heart, as they tend to prove, and try the truth and strength of grace. Afflictions and sufferings are the Touch-stones of grace: God by these tryes what mettal his people are made of, and by these Gods people come also to have tryal of themselves. They say of the Eagle, she tryes her young ones, by bringing them to the Sun, to see whether they can endure to behold it, and thereby judgeth whether they be of the right kind. Thus doth God deal with his people, he brings them to the Sun of persecution, and afflictions, and thereby tryes them; 1 <hi>Pet.</hi> 1.7. <hi>That the tryal of your faith be<g ref="char:EOLhyphen"/>ing much more precious, than of Gold that perisheth, though it be tryed with fire, might be found unto praise, and honour, and glory at the appearing of Jesus Christ.</hi> Afflictions are in order to the tryal of Faith; God asslicting his people, saith <hi>Paraeus, Ʋt tollerantia eorum maneat invicta, et fides quo<g ref="char:EOLhyphen"/>vis
+<pb n="21" facs="tcp:151447:17"/>auro fiat probatior;</hi> That their patience may remain unconquered, and their faith be more precious, and more approved, than finest gold.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> Afflictions tend to the furtherance of Grace, as they tend to the exciting, and exercise of Grace in the soul. Affliction is the File that fetch<g ref="char:EOLhyphen"/>eth off the rust from the graces of Saints, and ren<g ref="char:EOLhyphen"/>ders them both brighter and sharper. <hi>Prosperitas esseminat virtutem fidei,</hi> Prosperity effeminates the power of Faith, as <hi>Tertullian</hi> speaks. When there was a Consultation at <hi>Rome,</hi> about the demolishing of <hi>Carthage, Scipio</hi> was against it saying, <hi>Sinenda est Carthago ut ejus metu, disciplina a majoribus tradita jam labescens restituatur; Carthage</hi> is to be let alone, that by the fear thereof, the discipline which was left us by our Ancestors, now declining, may be restored. <hi>Heb.</hi> 12.11. <hi>Now no chastening for the present seemeth to be joyous, but grievous; Neverthelesse afterward it yeeldeth the peaceable fruit of righteousnesse unto them which are exercised thereby.</hi> Afflictions and sufferings train up the Saints, as wars do Souldiers, and exercise Scho<g ref="char:EOLhyphen"/>lars; To this purpose is that of <hi>Ambrose, Sinit Deus justum incidere in miserias, ut virtutem quae in illo latitat, apertiorem reddat, ut sint exercitium fi<g ref="char:EOLhyphen"/>dei, Insigne patientiae, eruditio gloriosa virtutis:</hi> God suffers the just man to fall into miseries, that he may make the vertue more conspicuous, that lyes hid in him, that they may be an exercise of Faith, an Ensign of Patience, and a glorious School of vertue.</p>
+            <p>Fourthly, Afflictions turn to salvation, <milestone type="tcpmilestone" unit="unspecified" n="1"/> and pro<g ref="char:EOLhyphen"/>mote Sanctification in the hearts of Gods people, as they tend to the increase of grace in the soul:
+<pb n="22" facs="tcp:151447:18"/>
+               <hi>Rom.</hi> 5.3, 4. <hi>We glory in tribulations, knowing that tribulation worketh patience, and patience ex<g ref="char:EOLhyphen"/>perience, and experience hope:</hi> Worketh patience, that is, it increaseth it, and carrieth it on; the Greek word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifies <hi>rem rudem expo<g ref="char:EOLhyphen"/>lire;</hi> and according to <hi>Camero, rem inchoatam pro<g ref="char:EOLhyphen"/>vehere eo us{que} donec persolvatur;</hi> To carry on a thing to perfection, so the word is used, <hi>Philip.</hi> 2.12. <hi>Work out your own salvation with fear and trembling:</hi> Now the perfection of Sanctification is Salvation, and this effect is ascribed to afflictions, sufferings and temptations; as <hi>Rom.</hi> 5.3, 4. afore cited: So also in <hi>James</hi> 1.3, 4. <hi>Knowing this that the tryal of your Faith worketh patience: But let patience have her perfect work, that ye may be perfect and entire wanting nothing.</hi> So that Faith, Pati<g ref="char:EOLhyphen"/>ence, Humility, and all other graces are promoted by sanctified afflictions.</p>
+            <p>The Second part of Positive Salvation is com<g ref="char:EOLhyphen"/>fort; <milestone type="tcpmilestone" unit="unspecified" n="2"/> Now the afflictions of the Saints shall turn to their comfort; they prepare for, and shall end in comfort; 2 <hi>Cor.</hi> 1.4, 5. <hi>Who comforteth us in all our tribulations, that we may be able to comfort them which are in trouble, by the comfort wherewith we our selves are comforted of God. For as the suffe<g ref="char:EOLhyphen"/>rings of Christ abound in us, so our consolation also aboundeth by Christ.</hi> Times of sorest afflictions, are usually times of largest comforts. When Saints part with creature-comforts, they do not loose their comforts, they only exchange them; they part with the lesse, to receive the greater; they part with comforts from the streams, to receive them from the fountain. To this purpose is that of <hi>Ter<g ref="char:EOLhyphen"/>tullian, Si aliqua ami<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>istio vitae gaudia negotiatio
+<pb n="23" facs="tcp:151447:18"/>est, aliquod amittis, ut majora lucreris;</hi> If thou hast lost some comforts of this life, it is but a mer<g ref="char:EOLhyphen"/>chandize, thou loosest some things, that thou mayst gain greater things: God will at last sill his people with comfort, and comfort will be much sweeter when it comes, by how much afflictions have been sharper and bitterer: The Sun is most pleasant when it breaks out of a Cloud; The Spring most acceptable after a sharp Winter; no lesse delightful and welcome are spiritual comforts after sore affli<g ref="char:EOLhyphen"/>ctions: The very end of God in afflicting, is to fit for comfort;
+<q>
+                  <l>Dejicit, ut relevet; premit, ut solatia prestet;</l>
+                  <l>Enecat, ut possit vivificare Deus.</l>
+               </q>
+            </p>
+            <p>God casts down, that he may raise up, he afflicts that he may comfort, he kills that he may make alive.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> Afflictions tend to the salvation of Believers in reference to glory; they tend to the increasing and sweetning of it; Afflictions on earth will make glory in Heaven greater. <hi>Rom.</hi> 8.17, 18. <hi>If so be that we suffer with him, that we may be al<g ref="char:EOLhyphen"/>so glorified together. For I reckon that the sufferings of this present time, are not worthy to be compared with the glory which shall be revealed in us.</hi> 2 Cor. 4.17. <hi>For our light affliction which is but for a mo<g ref="char:EOLhyphen"/>ment, worketh for us a far more exceeding and eter<g ref="char:EOLhyphen"/>nal weight of Glory. Quo plus tormenti, tanto plus erit gloriae;</hi> By how much there is more torment here, by so much there will be the more glory here<g ref="char:EOLhyphen"/>after, as <hi>one</hi> speaks; And another <hi>Ancient</hi> thus, <hi>Sancti nunquam dulcius requiescunt, quam cum la<g ref="char:EOLhyphen"/>boribus et virgis fatigantur;</hi> Saints never rest
+<pb n="24" facs="tcp:151447:19"/>more sweetly, than when they are wearied with labours and rods of Affliction.</p>
+            <p>The second Generall in handling the Doctrine is, <milestone type="tcpmilestone" unit="unspecified" n="2"/> To prove that Gods People may know, that their greatest afflictions shall turn to their salvati<g ref="char:EOLhyphen"/>on, and how they come to know it: Now this is proved from the example of the Apostle in the Text; and this further appears, from the confi<g ref="char:EOLhyphen"/>dence the people of God have expressed in their deepest distresses of attaining this end of their troubles: <hi>Micah</hi> 7.7, 8, 9, 10. <hi>Therefore I will look unto the Lord, I will wait for the God of my sal<g ref="char:EOLhyphen"/>vation, my God will heare me: Rejoyce not against me, Oh mine enemy, when I fall, I shall arise; when I sit in darknesse, the Lord shall be a light unto me,</hi> &amp;c. In all these verses the Church expresseth a great measure of confidence of the good issue of her troubles; <hi>My God will hear me,</hi> and severall other passages to the same purpose: 2 <hi>Tim.</hi> 2.12. <hi>If we suffer, we shall also reign with him.</hi> Now surely the Saints would not have been so confident of this, had they not certainly known it; If any ask, how the people of God come to attain this knowledge? I answer three wayes.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Saints of God come to know, that their afflictions shall turn to their salvation, by those promises God hath made, it shall be so: <hi>Rom.</hi> 8.28. <hi>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</hi> This both fully proves, that they may know it, and shews how they come to know it. That which God hath promised,
+<pb n="25" facs="tcp:151447:19"/>shall come to passe, and we may assuredly know it, we need not in the least to doubt or question it: God being a God of truth, we may safely build upon his promise; Is the word gone out of Gods mouth, hath he spoken it, and shall be not do it?</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> They come to know this by the ex<g ref="char:EOLhyphen"/>perience of other Saints, that are recorded in Scrip<g ref="char:EOLhyphen"/>ture, who have experimented this truth namely, of afflictions turning to their salvation; <hi>Psalm</hi> 119.67.71.75. <hi>Before I was afflicted, I went astray, but now have I kept thy word. It is good for me that I have been afflicted, that I might learn thy Statutes. I know, O Lord, that thy judgements are right, and that thou in faithfulness hast afflicted me.</hi> Now that which other Saints have found, all Saints may expect, when their condition is so circumstantiated, as other Saints hath been.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> They know it from their own expe<g ref="char:EOLhyphen"/>rience; The people of God have experimentally found God preventing, and purging out sinne by their afflictions, and turning them to their sal<g ref="char:EOLhyphen"/>vation; namely, to the increase of their Graces, and Comforts.</p>
+            <p>The Third Generall is, to shew, <milestone type="tcpmilestone" unit="unspecified" n="3"/> That it is through the prayers of Gods people, that affli<g ref="char:EOLhyphen"/>ctions turn to the salvation of Believers: That the prayers of the Church, and of particular Saints, are an ordained Means for the causing afflictions to turn to the salvation of those that are afflicted. It is Prayer that must fetch Meat
+<pb n="26" facs="tcp:151447:20"/>out of this Eater, and get that good out of afflictions, that is to be got by them. Prayer cracks the hard shell of afflictions, that the afflicted soul may feed upon the Kernell of Grace, Comfort, and Glory that is in them.</p>
+            <p>Now that Prayer is thus instrumentall, ap<g ref="char:EOLhyphen"/>peares from these four Evidences, or Demon<g ref="char:EOLhyphen"/>strations.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> It appears from Gods own appointment, and institution; in that God hath appointed, and in<g ref="char:EOLhyphen"/>stituted this as a means to bring good out of affli<g ref="char:EOLhyphen"/>ctions, <hi>James</hi> 5.14, 15. <hi>Is any sick among you? let him call for the Elders of the Church, and let them pray over him, anointing him with Oyl in the name of the Lord: And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgi<g ref="char:EOLhyphen"/>ven him.</hi> And though but one kind of affliction only be instenced in, yet all others are implyed; yea, this Scripture proves the prevalency of righte<g ref="char:EOLhyphen"/>ous mens prayers, for others, Verse the 16th. <hi>Pray one for another that ye may be healed, the effe<g ref="char:EOLhyphen"/>ctuall fervent prayer availeth much which comes from a righteous man;</hi> And the instance in verse the 17. is of praying for others.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> This appeares, That the Prayers of Gods people are a means to turn their afflictions to their salvation, in that God injoyns it, as a duty upon all Saints, to pray one for another; <hi>Ephes.</hi> 6.18. <hi>Praying allwayes with all prayer and sup<g ref="char:EOLhyphen"/>plication in the Spirit, and watching thereunto with all perseverance, and supplication for all Saints.</hi>
+               <pb n="27" facs="tcp:151447:20"/>The Apostle being directing Saints in their spiri<g ref="char:EOLhyphen"/>tual warfare, he directs to prayer, and that not onely for themselves, but for all Saints; im<g ref="char:EOLhyphen"/>plying, that the prayers of Saints are a means to help others against temptations, and under afflictions.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> It appears from the practice of the Saints, even the most eminent of them, in de<g ref="char:EOLhyphen"/>siring the prayers of Gods People for them, especially then, when they have been under afflictions; In that, those who have known most of Gods minde, as St. <hi>Paul</hi> and other <hi>Apostles,</hi> have so earnestly desired the prayers of Saints, <hi>Ephes.</hi> 6.19, 20. <hi>Praying for me,</hi> &amp;c. 1 <hi>Thess:</hi> 5.25. <hi>Brethren, pray for us.</hi> Now surely, they would never have done this, had they not known the power of the prayers of Saints, to bring good out of afflictions.</p>
+            <p>Fourthly, It appeares from the relation Saints stand into God, their interest in him, <milestone type="tcpmilestone" unit="unspecified" n="4"/> and power, and prevalency with him. Saints are neer to God, they are his Children, and therefore sure their prayers must needs be prevalent; and if the prayers of one Saint be prevalent for himselfe, or others, the prayers of many Saints for one, must needs be more prevalent: If the cry of one child prevail with a parent for it self, what will the cryes of many children when they come together, to intreat for one, do? So when many Saints joyn together to beg for one poor afflicted Saint, sure they will prevail.</p>
+            <pb n="28" facs="tcp:151447:21"/>
+            <p> The last generall to be spoken to, <milestone type="tcpmilestone" unit="unspecified" n="4"/> in the handling of this Doctrine, is to shew, that the sup<g ref="char:EOLhyphen"/>plyes of the Spirit of Christ, do principally cause the afflictions of Gods people to turn to their sal<g ref="char:EOLhyphen"/>vation; and what it is the Spirit of Christ doth supply them with, in order to their salvation. Prayer is but the Instrument, the Spirit of Christ is the principal Efficient of this blessed effect: But to shew you more particularly what it is the Spirit of Christ supplyes the Saints with, in order to the turning their afflictions unto their salvati<g ref="char:EOLhyphen"/>on.</p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Spirit of Christ supplyes the Saints with strength to bear their burdens with patience, and submission unto the will of God, under all their sufferings and afflictions. He inables them to lye down with patience at Gods feet, and to kiss the Rod; and this frame of heart much tends to the turning the afflictions, and the sufferings of the Saints unto their salvation. Thus you may find the Spirit of Christ inabling the Saints to this, in several Scripture instances; That of <hi>Eli,</hi> 1 <hi>Sam.</hi> 3.18. <hi>And he said, It is the Lord, let him do what seemeth him good:</hi> That of <hi>David,</hi> 2 <hi>Sam.</hi> 15.26. <hi>But if he thus say, I have no delight in thee; Be<g ref="char:EOLhyphen"/>hold, here am I, let him do to me as seemeth goodun<g ref="char:EOLhyphen"/>to him:</hi> That of <hi>Hezekiah, Isaiah</hi> 39.8. <hi>Then said Hezekiah to Isaiah, Good is the word of the Lord which thou hast spoken,</hi> &amp;c. That of the Apostle <hi>Paul, Acts</hi> 21.13. I <hi>am ready not to be bound only, but also to dye at Jerusalem for the name of the Lord Jesus.</hi> Now this frame of heart won<g ref="char:EOLhyphen"/>derfully fits the soul to get good by afflictions. God doth turn affliction to the Saints salvation, not so
+<pb n="29" facs="tcp:151447:21"/>much by substracting from their troubles, as by adding to their strength; not so much by less<g ref="char:EOLhyphen"/>ning their burdens, as by strengthning their backs to bear them.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Spirit of Christ supplyes the Saints with ability, to perform the present duty of an afflicted state, and to mind duty more than deliverance; and this tends very much to the sal<g ref="char:EOLhyphen"/>vation of Gods people. It is a temptation and deceit of our hearts to think what we would do, if God would deliver us from such a trouble we are in, or bestow such a mercy we want: but now the Spirit of Christ teacheth the soul under afflicti<g ref="char:EOLhyphen"/>on to mind present duty, and to be more earnest with God for strength to perform that; then for to be delivered from most heavy afflictions, makes the soul to be more desirous to have affliction sanctifi<g ref="char:EOLhyphen"/>ed, than to have it removed.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Spirit of Christ turns the afflicti<g ref="char:EOLhyphen"/>ons of the Saints unto their salvation, by supplying them with grace to improve all their afflictions, and afterwards to <hi>bring forth the peaceable fruit of righteousnesse,</hi> which the best of Saints could ne<g ref="char:EOLhyphen"/>ver do, without the supply of the Spirit of Christ. As we know not how to bear, or carry under afflictions; so neither of our selves do we know how to improve them. We should soon forget the resolutions we had taken up, the vows we had made, and the impressions that were upon our spirits in the day of our adversity, and we should never be able to performe them, did not the Spirit of God mind us of them, and supply
+<pb n="30" facs="tcp:151447:22"/>us with strength, and ability to perform them.</p>
+            <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> The Spirit of God supplyes the Saints under their afflictions and sufferings with inward supports, comforts, and cordials to bear up their spirits; assuring them of a good issue of all their troubles, and in the mean time secretly sup<g ref="char:EOLhyphen"/>porting their hearts, and inabling them to rejoyce in tribulation, and so turns their afflictions to their salvation.</p>
+            <p>Having thus opened and confirmed by Scrip<g ref="char:EOLhyphen"/>ture, the Doctrine in all the parts of it; I shall ve<g ref="char:EOLhyphen"/>ry briefly give the <hi>Grounds</hi> and <hi>Reasons,</hi> why all the afflictions of Gods people shall turn to their salvation.</p>
+            <p>The First <hi>Reason,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> Because all the afflictions of the people of God proceed from God as a Father, and are ordered by love, and mingled and sweet<g ref="char:EOLhyphen"/>ned with mercy. The true Believer, when the bitterest Cup of affliction is put into his hand, may say as <hi>Christ</hi> did, <hi>Mat.</hi> 26.39. <hi>Oh my Father!</hi> It is the saying of <hi>One, Justitiae gladium oleo mise<g ref="char:EOLhyphen"/>ricordiae Deus semper exacuit;</hi> God alwayes whets the Sword of Justice, with the oyl of mercy: This is true in reference to the Children of God; God layes the Rods wherewith he corrects his Child<g ref="char:EOLhyphen"/>ren in steep in the oyle, and honey of Divine Love and tender mercy.</p>
+            <p>The Second <hi>Reason,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>2</label> or <hi>Ground</hi> of the Doctrine, why the afflictions of the Saints shall turn to their salvation, is; Because Christ hath prayed for his
+<pb n="31" facs="tcp:151447:22"/>people, that they should be delivered from the evill of the world, and of the afflictions they suf<g ref="char:EOLhyphen"/>fer in, and from it; <hi>John</hi> 17.15. <hi>I pray not that thou shouldst take them out of the world, but that thou shouldst keep them from the evill.</hi> He hath not prayed, that they should be wholly delivered from afflictions, but from the evill of them. Yea the prayers of Gods people are, and shall be effectual for the attaining of this end, because they are se<g ref="char:EOLhyphen"/>conded and offered up by Jesus Christ.</p>
+            <p>The Third <hi>Reason</hi> of the Doctrine, is, <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>
+               </label> Because Christ hath purchased the giving of the Spirit for this end, to supply the Saints, and to turn their affli<g ref="char:EOLhyphen"/>ctions unto their salvation, this is the fruit of the intercession of Christ.</p>
+            <p>So much for the <hi>Reasons</hi> of the Doctrine; I now proceed to the <hi>Application</hi> of it, in which though I might be very large, yet I having been so large in Explication, and Confirmation, and much of what hath been spoken to those particu<g ref="char:EOLhyphen"/>lars, being practicall, I shall be the briefer in it.</p>
+            <p>The First <hi>Ʋse</hi> is of <hi>Information.</hi>
+            </p>
+            <p>First, <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>1</label> If afflictions shall turn to the salvation of Gods people, then hence we may inferre; That afflictions are not so bad, as we are ready to judge them to be: It may serve to correct those black and dismall thoughts we are ready to entertain of sufferings, and indeed the reason why we so look upon them, is, because we judge of them by sence, and not by faith; What they are at pre<g ref="char:EOLhyphen"/>sent, rather than what they will be in the issue;
+<pb n="32" facs="tcp:151447:23"/>did we by the eye of Faith look to that salvation, which will be the issue of the afflictions of the Godly, we should not either think so badly, or be so afraid of afflictions, as now we are.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> If affliction shall turn to the salvation of Saints, through the prayers of Gods people; Hence we inferre, That it is the duty of Christi<g ref="char:EOLhyphen"/>ans to pitty, and pray for those that are in afflicti<g ref="char:EOLhyphen"/>on, especially such as are their fellow Christians; to have bowels of compassion stirred up in them, toward their afflicted brethren, and to put up earnest prayers to God in their behalfe, especially for that blessing promised in the Text, <hi>that their afflictions and sufferings may turn to their salvati<g ref="char:EOLhyphen"/>on:</hi> The prayers of Saints being an ordained and sanctified Means for the attaining of this mercy.</p>
+            <p>Hence it follows in the Third place, <milestone type="tcpmilestone" unit="unspecified" n="3"/> That it is not onely a warrantable practice, but also the duty of persons in affliction, to desire the prayers of Gods people for them, especially for this, that their afflictions may turn to their salvation: They should more desire their Christian friends to pray for this, than for the removal of their afflictions; Prayers of Saints being an appointed means to pro<g ref="char:EOLhyphen"/>cure this mercy.</p>
+            <p>We may hence inferre Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> That it is a very great mercy for a person in affliction to have, and to know, that he hath a share and interest in the hearts, and prayers of Gods people, that he hath a stock of prayers going on for him, and the prayers of many Saints upon the File in Heaven on his
+<pb n="33" facs="tcp:151447:23"/>behalfe; The prayers of Saints are very preva<g ref="char:EOLhyphen"/>lent, <hi>James</hi> 5.14, 15, 16. <hi>Is any sick amongst you?</hi> &amp;c. <hi>The effectual fervent prayer of a righteous man availeth much.</hi> Praying friends are the best friends, they are best Physitians for the sick man, the best relievers of the afflicted soul; they may, and are like to prevail with God, not only for the removal of the affliction, but also for the pardon of sin, and turning afflictions to the salvation of the soul: Oh therefore be thankfull for, and prize a share and interest in the prayers of Gods peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Then in the fifth place; It is a very great sin, <milestone type="tcpmilestone" unit="unspecified" n="5"/> (that which is unchristian, yea unmanly, and un<g ref="char:EOLhyphen"/>naturall) for persons, instead of helping the af<g ref="char:EOLhyphen"/>flicted by their prayers, for their getting good by their troubles, to adde affliction to the af<g ref="char:EOLhyphen"/>flicted, to adde affliction to their bonds, as St. <hi>Paul</hi> complaines in the Verses before the Text, some did to his. Pity should be shewed to the af<g ref="char:EOLhyphen"/>flicted by his friend; sure then to slander and cen<g ref="char:EOLhyphen"/>sure persons under Gods afflicting hand, to rake in the bleeding wounds that God may have made in the estates, relations, or consciences of affli<g ref="char:EOLhyphen"/>cted persons, it is highly sinfull, and very provo<g ref="char:EOLhyphen"/>king of God: This is very contrary to the duty implyed in the Text, of praying one for another, this is when God is a little angry with his people, to help forward his indignation. You may see how angry God was with <hi>Edom</hi> for this, <hi>Obadiah</hi> 12, 13, 14. <hi>Thou shouldest not have looked on the day of thy Brother, in the day that he became a stranger, neither shouldest thou have rejoyced over
+<pb n="34" facs="tcp:151447:24"/>the children of Judah in the day of their destru<g ref="char:EOLhyphen"/>ction; Neither shouldest thou have spoken proud<g ref="char:EOLhyphen"/>ly in the day of distresse,</hi> &amp;c. Oh therefore take heed of dealing thus with afflicted per<g ref="char:EOLhyphen"/>sons, you should not put Vinegar, but Oyle into such wounds; you should not make their wounds wider by bitter words, but labour to heal them by pitty and prayer.</p>
+            <p>We may hence in the sixth place see the necessity and benefit of the Communion of Saints, <milestone type="tcpmilestone" unit="unspecified" n="6"/> seeing the mutuall prayers of Saints each for other, are of such great efficacy and ad<g ref="char:EOLhyphen"/>vantage, especially in the time of afflictions; this may informe us of the usefulnesse of Saints one to another, yea, of the usefulnesse of the meanest, sincere, praying Christian, and there<g ref="char:EOLhyphen"/>fore that the greatest, richest, best of men should not despise the meanest and lowest Saint; There may a time come, when thou mayest stand in need of his prayers, thou mayest be in such a condition, that his prayers may do thee more good than all thy estate, thy friends, thy gifts and parts. Thou art a strong Christian, and of great gifts and parts, despise not thy weak brother, for thou mayest stand in as much need of his prayers, as he of thy gifts; Thou who art a Minister, mayest as much need the weakest Christians prayers, as he thy preaching, Thou that art great and rich, may in a day of affliction, as much need the poor Saints prayers, to turn thy affliction to thy salvation, as the poor man now needs thy purse, or power to help and relieve him.</p>
+            <pb n="35" facs="tcp:151447:24"/>
+            <p> Lastly, It informs us, <milestone type="tcpmilestone" unit="unspecified" n="7"/> That it is as much more the duty of Believers in time of affliction, and sufferings, to pray for themselves, and to be earnest and wrestle with God in prayer, that their afflictions may turn to their salvati<g ref="char:EOLhyphen"/>on: And it also informes us, That surely the prayers of Believers, put up for them<g ref="char:EOLhyphen"/>selves in the day of affliction, shall be very prevalent, being put up in Faith; God having made many speciall promises to his people, calling upon him in the day of their trouble.</p>
+            <p>The Second <hi>Ʋse</hi> is of Comfort, <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>2</label> and Consola<g ref="char:EOLhyphen"/>tion to the people of God under all their affli<g ref="char:EOLhyphen"/>ctions and sufferings. Rejoyce in God and Jesus Christ, in the midst of all your troubles, and in the hopes you have grounded on the Scripture, of a comfortable, blessed, and saving issue of all of them. Resolve with St. <hi>Paul</hi> in the verse before the Text, that you will re<g ref="char:EOLhyphen"/>joyce, and that upon the ground mentioned in the Text, that they shall turn to your sal<g ref="char:EOLhyphen"/>vation; Seeing your afflictions shall purge out your corruptions, exercise, and increase your graces, and adde to your glory: These things the Apostle assignes as the ground of his, and all true Believers rejoycing, and glorying in tribulations, <hi>Rom.</hi> 5.3, 4, 5. 2 <hi>Cor.</hi> 4.16, 17. Each of the particulars spoken of in the Explica<g ref="char:EOLhyphen"/>tion of the Doctrine, might serve for so many Branches of Comfort; but having spoken so large<g ref="char:EOLhyphen"/>ly to them there, I shall leave them to be retur<g ref="char:EOLhyphen"/>ned upon, and inlarged in your owne medita<g ref="char:EOLhyphen"/>tions.</p>
+            <pb n="36" facs="tcp:151447:25"/>
+            <p> The Third and last <hi>Ʋse</hi> of the Doctrine, <label type="milestone">
+                  <seg type="milestoneunit">Ʋse </seg>3</label> is of <hi>Exhortation.</hi>
+            </p>
+            <p>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> Be exhorted, seeing Gods people may come to know, that all afflictions and sufferings shall turn to their salvation, to labour to attain this sweet and comfortable knowledge; that so you may be able to rejoyce in tribulation, which that you may, labour to get and assure an interest in Christ, which is the foundation of this privi<g ref="char:EOLhyphen"/>ledge, of afflictions turning to your salvation; for this is not the naturall product of affliction, but the fruit of the purchase of Christ; and indea<g ref="char:EOLhyphen"/>vour also to walk in obedience to Christ, which will be the evidence of your interest in him, and consequently a means to attaine this know<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Then be exhorted to study more the present duty of an afflicted estate, than deliverance from it; Be more solicitous to doe thy duty under affliction, than to get rid of it; Do not pore too much on thy present paine, but have an eye to future profit: Labour especially af<g ref="char:EOLhyphen"/>ter submission unto Gods will, patience, an hum<g ref="char:EOLhyphen"/>ble silence under Gods hand; for this is the way both to get afflictions soon removed, and to get good by them.</p>
+            <p>To excite you unto this,</p>
+            <p>First, <label type="milestone">
+                  <seg type="milestoneunit">Motive </seg>1</label> Consider the Examples of Gods people, who have done thus, and got much good by it, <hi>Heb.</hi> 12.1. See <hi>Eli</hi> doing thus, 1 <hi>Sam.</hi> 3.18.
+<pb n="37" facs="tcp:151447:25"/>
+               <hi>David</hi> 2 <hi>Sam.</hi> 15.25, 26. <hi>Hezekiah Isaiah</hi> 39. last vers. When he was so severely threatned, in re<g ref="char:EOLhyphen"/>ference to his Kingdome and prosperity; yet he saith, <hi>Good is the word of the Lord. Abraham</hi> when God commanded him to <hi>offer up his Son, his onely Son Isaac,</hi> he submits; Oh so do thou, though God should call for an onely Child.</p>
+            <p>Consider the Example of Christ, <hi>Heb.</hi> 12.2, 3. <label type="milestone">
+                  <seg type="milestoneunit">Motive </seg>2</label>
+               <hi>Looking unto Jesus the Author and Finisher of our Faith, who for the joy that was set before him, en<g ref="char:EOLhyphen"/>dured the Crosse,</hi> &amp;c. With how much chear<g ref="char:EOLhyphen"/>fulnesse did he submit to drink the Cup his Father did put into his hand? <hi>Matth.</hi> 26.42. <hi>Oh Father if this Cup cannot passe away from me, but that I must drink it, thy will be done:</hi> And his cup was much bitterer than thine, there was vindictive wrath put into his Cup, but there is none in thine: Thy Cup of affliction is sweetned by Christ, the sting and bitternesse is taken out by him; did Christ suffer so much for thee, and wilt thou be unwil<g ref="char:EOLhyphen"/>ling to suffer somewhat for him? God parted with his Son, his only Son for thee, and was not his Son to him as dear, as thy husband, wife, pa<g ref="char:EOLhyphen"/>rent, child can be to thee? Was he not an only Son? Oh therefore submit to God without any reserve.</p>
+            <p>Be earnest in prayer to God both for thy self, <label type="milestone">
+                  <seg type="milestoneunit">Motive </seg>3</label> and others, when either thou, or they, lye under Gods afflicting hand, beg the supplyes of the Spirit of Christ, expect all strength, comfort, sup<g ref="char:EOLhyphen"/>port from him, use prayer, but rest not in that, but beg the Spirit, pray for your selves and others,
+<pb n="38" facs="tcp:151447:26"/>for this afflicted family; Help to mid-wife your own, and others mercies to your, and their hearts by prayer, especially pray for the things mentio<g ref="char:EOLhyphen"/>ned in the Text; <hi>The supply of the Spirit, and turning of their afflictions to their salvation.</hi>
+            </p>
+            <p>Lastly, <label type="milestone">
+                  <seg type="milestoneunit">Motive </seg>4</label> Do not only pray, but when thou art under affliction, set faith on work, and act it up<g ref="char:EOLhyphen"/>on Christ, for bestowing the Spirit upon thee, with his supplyes, <hi>To turn all thy afflictions unto thy sal<g ref="char:EOLhyphen"/>vation.</hi> It is Faith that must fetch in these sup<g ref="char:EOLhyphen"/>plyes, and produce this blessed effect of afflictions, Be sure to exercise faith, and then thou mayst with confidence say, as <hi>Paul</hi> in the Text, <hi>For I know that this shall turn to my salvation, through your prayer, and the supply of the Spirit of Jesus Christ.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="dialogue">
+            <pb facs="tcp:151447:26"/>
+            <head>THE <hi>Mother</hi> and her <hi>Little-Ones</hi> Last <hi>Good-Night.</hi> Occasioned by the Death of Mrs. <hi>Winifred Pierepont,</hi> the only Child of the Ho<g ref="char:EOLhyphen"/>nourable, the Lady <hi>Alisamon Pierepont.</hi>
+            </head>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">M</seg>OTHER,</hi> I'me tir'd with play, my head</l>
+               <l>Doth ake, I must away to bed:</l>
+               <l>Heres <hi>Death</hi> now come to fetch me straight,</l>
+               <l>And I am ready; so <hi>good-night.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Stay, <hi>pretty-heart;</hi> Oh! stay, at least</l>
+               <l>Untill thy Mother be undrest:</l>
+               <l>How canst thou go? or how can I</l>
+               <l>Part with thy pretty company?</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>
+                  <hi>Dear Mother,</hi> I must needs be gon;</l>
+               <l>Pardon me, you may come anon:</l>
+               <l>My Father's gon, I know the way,</l>
+               <l>I'le keep him company whil'st you stay.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:151447:27"/>
+               <speaker>Mother.</speaker>
+               <l>You'd more need stay, <hi>Child,</hi> since hee's gone,</l>
+               <l>Than leave thy Mother all alone:</l>
+               <l>Stay then, <hi>my dearest,</hi> (why such hast?</l>
+               <l>And see thy <hi>Mother</hi> first at rest.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Pray say, <hi>Mother,</hi> have you not dear</l>
+               <l>Friends, and Relations left you here?</l>
+               <l>Have patience then: Ist not as meet</l>
+               <l>That little-ones should be first asleep?</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>But tis too soon; others still play</l>
+               <l>Thou know'st; whose pratlings do allay</l>
+               <l>Their mothers griefs; and wilst thou be</l>
+               <l>The subject of my misery?</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Know not you with what cares, and fears</l>
+               <l>They keep them up? how many tears</l>
+               <l>Their falls do cost? which, if they'd gon</l>
+               <l>To bed betimes, neither had known.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Alas, <hi>Child</hi> thou dost not yet know</l>
+               <l>The pleasures they will have below,</l>
+               <l>Thou hasts so-up; and 'cause thou'rt young,</l>
+               <l>Makes day too short, and night too long.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Nor they mine: let'm worship their faces</l>
+               <l>In flattring tel-tale Looking-Glasses,</l>
+               <l>See Playes, or Masks, dance Balls, the rest</l>
+               <l>Spend at Gleek, Mano, or La best.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>But though't should prove better for thee,</l>
+               <l>Tis worse I'me sure, <hi>sweet one,</hi> for me:</l>
+               <pb facs="tcp:151447:27"/>
+               <l> How can I bear that my delight,</l>
+               <l>Should be removed out of sight!</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Think not so: Ist not best for her</l>
+               <l>That's apt to turn Idolater,</l>
+               <l>To have the Curtains drawn before</l>
+               <l>The Images, she would adore?</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Since then my words cannot prevail,</l>
+               <l>Hark what I'le give thee without fail,</l>
+               <l>If thou wilt stay; command I might,</l>
+               <l>But restrain'd company's no delight.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Your proffers sometimes great I've thought,</l>
+               <l>But now (though not your love) as nought.</l>
+               <l>Babies are no pleasure to me</l>
+               <l>Who hasten to maturity.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Think then what pleasures may be found</l>
+               <l>In other things: How thoul't abound</l>
+               <l>With those things thousands do desire,</l>
+               <l>And want, yet never can acquire.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>These hollow Ecchoes are to me,</l>
+               <l>Shaddows and no reallity:</l>
+               <l>You'd have me happy as the best;</l>
+               <l>Am I not so, when once at rest?</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Sleep, I well know, like as the Grave</l>
+               <l>Equalls the King and Galley-Slave:</l>
+               <l>Therefore why wilst thou nothing take</l>
+               <l>To cure thy head, and keep th'awake?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:151447:28"/>
+               <speaker>Child.</speaker>
+               <l>Not like effects though sleep partakes,</l>
+               <l>Some kills, some cures, and happy makes.</l>
+               <l>Hark; Father calls; <hi>Death,</hi> lets to bed:</l>
+               <l>Good-night, <hi>dear Mother,</hi> enough is said.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Ah <hi>Death!</hi> thou wicked wretch, and cruel;</l>
+               <l>Must I thus loose my only Jewel!</l>
+               <l>Is husbandless nothing? must I be</l>
+               <l>Now also childless made by thee?</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Pray, <hi>Mother,</hi> cease; the servant must</l>
+               <l>Perform his Masters will that's just.</l>
+               <l>Strainge! are we lost when we are gone</l>
+               <l>To bed and safely rest at home?</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Hold, <hi>Death;</hi> and let my <hi>All</hi> now buy</l>
+               <l>A short reprive; that I may try,</l>
+               <l>What Mothers prayers and tears can move,</l>
+               <l>With sighs and groans, the Powers above.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>How passion blinds! you know, or might,</l>
+               <l>Death takes no bribes for mortal wight,</l>
+               <l>That tears are water, sighes the gales</l>
+               <l>Of wind that fills old <hi>Charons</hi> sailes.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Help, help, O friends; let's rescue then</l>
+               <l>My Darling from this Lyons den.</l>
+               <l>Hard are their hearts, hands lame, surely,</l>
+               <l>That senselesse, helplesse can stand by.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Resist him; He doth fright, and tear,</l>
+               <l>Is mortals conquerour every where;</l>
+               <pb facs="tcp:151447:28"/>
+               <l> Submit; a Lamb in Lyons skin,</l>
+               <l>That frights not, hurts not, hath no den.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>Well! Since I see it must be so,</l>
+               <l>I to thy bed with thee will go;</l>
+               <l>Patience shall help me thus forlorn,</l>
+               <l>And hope t'enjoy th'again at morn.</l>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <l>Right, Mother! no more strife, I pray,</l>
+               <l>I for my going, you my stay;</l>
+               <l>Your company will there delight,</l>
+               <l>So, <hi>dear Mother,</hi> my last <hi>Good-night.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <lg>
+                  <l>Sleep, <hi>Pretty one,</hi> ah! sleep, tis I</l>
+                  <l>Come to sing thy last Lullabie.</l>
+                  <l>Oh that my song were but like thee!</l>
+                  <l>Ne're would be sweeter harmony.</l>
+                  <l>Thy grace-ful features, tender limbs,</l>
+                  <l>Are but so many well-set hyms,</l>
+                  <l>To praise thy Maker, which thy heart</l>
+                  <l>And voyce can sing with heavenly Art:</l>
+                  <l>Though I but sob, <hi>thou art I see</hi>
+                  </l>
+                  <l>
+                     <hi>A sweet piece of mortality.</hi>
+                  </l>
+                  <l>And groaning Accent, <hi>ah! pure clay!</hi>
+                  </l>
+                  <l>
+                     <hi>Bright as the morn! fair as the day!</hi>
+                  </l>
+                  <l>Oh thy quick and sparkling eyes!</l>
+                  <l>That dart like lightning through the skies.</l>
+                  <l>How do thy Cheeks the Rose excell!</l>
+                  <l>What sweetness on thy lips doth dwell!</l>
+                  <l>Why blushest now? and thy face shrouds</l>
+                  <l>Like the red Sun when't sets in Clouds?</l>
+                  <l>Though thou be little, any may see,</l>
+                  <l>That Beautie's drawn at length in thee.</l>
+                  <pb facs="tcp:151447:29"/>
+                  <l> As if Nature in'ts dotage try'd,</l>
+                  <l>If former works might be outvy'd,</l>
+                  <l>So grost perfections in one sum,</l>
+                  <l>And call'd it her <hi>Compendium.</hi>
+                  </l>
+                  <l>But beautie's Idol's but a skin;</l>
+                  <l>Oh! if we could but see within,</l>
+                  <l>And read what's printed there by grace,</l>
+                  <l>We should not then extoll thy face;</l>
+                  <l>'Cause that we canot do, we hover,</l>
+                  <l>Admire the binding, and the cover.</l>
+                  <l>And yet what need where we can see,</l>
+                  <l>And hear, Faith, Hope, and Charity.</l>
+                  <l>I'le pause, and listen; friends, come neer.</l>
+                  <l>—</l>
+                  <l>Perceived you not their speech? then hear.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Blest Child,</hi> sayes <hi>Faith,</hi> fear not to lye</l>
+                  <l>Alone, for thine own Father's by.</l>
+                  <l>Though I thee leave, <hi>Hope</hi> stayes, and <hi>Love</hi>
+                  </l>
+                  <l>Will tend thee all the while above.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Poor Heart,</hi> said <hi>Hope,</hi> thou lies too low,</l>
+                  <l>Deprest with pain and grief I know,</l>
+                  <l>I'le raise thy head up, then thoul't be</l>
+                  <l>Out of this groveling misery.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>My Dear,</hi> thou lies too cold saith <hi>Love;</hi>
+                  </l>
+                  <l>Wouldst thou to Fathers bed remove?</l>
+                  <l>I'le bear thee to him, there thou mayst</l>
+                  <l>Secure from all these evills rest.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Patience</hi> drew neer said, whisht <hi>Child,</hi> I</l>
+                  <l>Have an Art of strange mystery;</l>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </lg>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
